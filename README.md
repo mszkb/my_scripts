@@ -1,6 +1,10 @@
-# My RPI scripts
+# My Scripts and docs
 
-A collection of scripts and dotfiles that I use on my raspberry pi(s).
+A collection of docs, scripts and dotfiles that I use on my devices.
+
+## Docs
+
+General docs about almost anything related to programming languages, quirks on operating systems and of course raspberry pi.
 
 ## Hardening script
 
